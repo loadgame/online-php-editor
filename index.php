@@ -1,1 +1,1 @@
-echo "
+<script> location.href='ce_index.php'; </script>
