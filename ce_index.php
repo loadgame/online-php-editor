@@ -18,5 +18,15 @@
   <frame name='right' src="ce_editor.html" />
 </frameset>
 
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?a723ed39c028645e0ec3c88741d09c03";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
 </html>
   
